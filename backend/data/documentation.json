@@ -1,0 +1,388 @@
+[
+  {
+    "id": "doc_001",
+    "category": "Getting Started",
+    "question": "How do I create an account?",
+    "answer": "To create an account, visit our sign-up page and click the 'Sign Up' button. You'll need to provide your email address, create a secure password (minimum 8 characters with at least one number and one special character), and verify your email through the confirmation link we send. Once verified, you can log in and start using the platform. The entire process takes less than 2 minutes.",
+    "tags": ["signup", "registration", "account", "create", "new user", "onboarding"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_002",
+    "category": "Getting Started",
+    "question": "What are the system requirements?",
+    "answer": "Our platform works on all modern web browsers including Chrome (version 90+), Firefox (version 88+), Safari (version 14+), and Edge (version 90+). For mobile apps, we support iOS 14+ and Android 8.0+. You'll need a stable internet connection (minimum 1 Mbps) and at least 2GB of available storage for mobile apps. No additional software installation is required for web access.",
+    "tags": ["requirements", "browser", "mobile", "compatibility", "system", "specs"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_003",
+    "category": "Getting Started",
+    "question": "How do I complete the initial setup?",
+    "answer": "After creating your account, you'll be guided through a 3-step setup wizard. First, choose your workspace name and upload a profile picture (optional). Second, select your primary use case from our templates or start with a blank workspace. Third, invite team members by email or skip this step for later. You can always access the setup wizard again from Settings > Workspace Setup if you need to make changes.",
+    "tags": ["setup", "onboarding", "wizard", "initial", "configuration", "workspace"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_004",
+    "category": "Account & Billing",
+    "question": "How do I upgrade my subscription plan?",
+    "answer": "To upgrade your plan, go to Settings > Billing and click 'Upgrade Plan'. You'll see all available plans with feature comparisons. Select your desired plan and choose monthly or annual billing (annual saves 20%). Enter your payment information if not already on file. Your upgrade takes effect immediately, and you'll be charged a prorated amount for the remainder of your current billing cycle. Downgrades take effect at the end of your current billing period.",
+    "tags": ["upgrade", "subscription", "plan", "billing", "pricing", "payment"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_005",
+    "category": "Account & Billing",
+    "question": "How do I cancel my subscription?",
+    "answer": "You can cancel your subscription anytime from Settings > Billing > Subscription. Click 'Cancel Subscription' and confirm your choice. Your subscription will remain active until the end of your current billing period, and you'll retain full access to all features during this time. After cancellation, your account will automatically switch to the free plan. You can reactivate your subscription at any time before the period ends without losing any data.",
+    "tags": ["cancel", "subscription", "billing", "downgrade", "refund"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_006",
+    "category": "Account & Billing",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards (Visa, Mastercard, American Express, Discover), debit cards, and PayPal. For annual plans, we also accept bank transfers and wire transfers for enterprise customers. All payments are processed securely through Stripe, and we never store your full card details. You can update your payment method anytime from Settings > Billing > Payment Methods.",
+    "tags": ["payment", "credit card", "paypal", "billing", "methods", "stripe"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_007",
+    "category": "Account & Billing",
+    "question": "How do I view my billing history?",
+    "answer": "Your complete billing history is available in Settings > Billing > Invoices. You can view all past invoices, download PDF copies, and see payment dates and amounts. Each invoice includes a detailed breakdown of charges, tax information, and payment status. You can also set up email notifications to receive invoices automatically. For enterprise customers, invoices are available in your dedicated billing portal.",
+    "tags": ["invoice", "billing history", "receipt", "payment", "records"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_008",
+    "category": "Features & Functionality",
+    "question": "How do I create a new project?",
+    "answer": "To create a new project, click the '+' button in the top navigation bar or go to Projects > New Project. Enter a project name, select a template (or start blank), choose your project visibility (private, team, or public), and click 'Create'. You'll be taken to your new project dashboard where you can start adding tasks, files, and team members. Projects can be organized into folders and customized with colors and icons.",
+    "tags": ["project", "create", "new", "template", "dashboard"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_009",
+    "category": "Features & Functionality",
+    "question": "How do I share files with my team?",
+    "answer": "You can share files in multiple ways: upload directly to a project folder, drag and drop into the file browser, or use the 'Share' button on any file. For external sharing, click the file's share icon, generate a shareable link with optional password protection and expiration date, or invite specific people via email. All shared files are automatically synced across team members' devices. File size limit is 100MB per file for free plans, 500MB for paid plans.",
+    "tags": ["share", "files", "upload", "collaboration", "team", "sync"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_010",
+    "category": "Features & Functionality",
+    "question": "How do I set up automated workflows?",
+    "answer": "Navigate to Settings > Automations to create custom workflows. Click 'Create Automation' and choose a trigger (e.g., new task created, file uploaded, status changed). Then define actions (send notification, assign task, update field, etc.). You can add multiple conditions using AND/OR logic and test your automation before activating it. We provide 20+ pre-built automation templates for common workflows. Automations run in real-time and can be paused or edited anytime.",
+    "tags": ["automation", "workflow", "trigger", "action", "template"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_011",
+    "category": "Features & Functionality",
+    "question": "How do I use the search feature?",
+    "answer": "Use the search bar in the top navigation (or press Ctrl+K / Cmd+K) to search across all your projects, tasks, files, and comments. You can filter results by type (projects, tasks, files), date range, assignee, or tags. Use quotes for exact phrases, minus sign to exclude terms, and operators like 'is:completed' or 'has:attachment'. Recent searches are saved, and you can save frequent searches as shortcuts. Search results update in real-time as you type.",
+    "tags": ["search", "find", "filter", "shortcut", "query"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_012",
+    "category": "API & Integrations",
+    "question": "How do I get an API key?",
+    "answer": "To generate an API key, go to Settings > Integrations > API Keys. Click 'Create New API Key', give it a descriptive name (e.g., 'Production App' or 'Testing Script'), and select the permissions it needs (read-only, read-write, or admin). Copy the key immediately as it's only shown once. Store it securely and never commit it to version control. You can create multiple API keys for different applications and revoke them individually if needed.",
+    "tags": ["api", "key", "authentication", "integration", "token"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_013",
+    "category": "API & Integrations",
+    "question": "What API rate limits apply?",
+    "answer": "Free tier accounts have a rate limit of 100 requests per minute per API key. Pro plans allow 1,000 requests per minute, and Enterprise plans have 10,000 requests per minute with custom limits available. Rate limit headers are included in all API responses (X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset). If you exceed limits, you'll receive a 429 Too Many Requests response. We recommend implementing exponential backoff retry logic in your applications.",
+    "tags": ["api", "rate limit", "throttling", "429", "requests"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_014",
+    "category": "API & Integrations",
+    "question": "How do I integrate with Slack?",
+    "answer": "To integrate with Slack, go to Settings > Integrations > Slack and click 'Connect'. Authorize our app in Slack by selecting the workspace and channels where you want notifications. Configure which events trigger notifications (new tasks, mentions, status changes, etc.) and customize message formats. You can create multiple Slack integrations for different workspaces. To disconnect, click 'Disconnect' in the integration settings. All Slack integrations support slash commands for quick actions.",
+    "tags": ["slack", "integration", "notification", "webhook", "connect"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_015",
+    "category": "API & Integrations",
+    "question": "Can I integrate with Zapier?",
+    "answer": "Yes, we have a native Zapier integration. Go to Settings > Integrations > Zapier and click 'Connect Account'. This will open Zapier where you can create Zaps using our app as a trigger or action. Popular Zaps include: creating tasks from emails, syncing with Google Calendar, posting updates to social media, and sending data to spreadsheets. We support 50+ Zapier actions and triggers. The integration is available on all paid plans.",
+    "tags": ["zapier", "integration", "automation", "zap", "connect"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_016",
+    "category": "Security & Compliance",
+    "question": "How do I enable two-factor authentication?",
+    "answer": "To enable 2FA, go to Settings > Security > Two-Factor Authentication and click 'Enable'. You can choose between authenticator apps (Google Authenticator, Authy, Microsoft Authenticator) or SMS verification. For authenticator apps, scan the QR code with your app and enter the 6-digit code to verify. We recommend using authenticator apps as they're more secure. Save your backup codes in a secure location - you'll need them if you lose access to your 2FA device.",
+    "tags": ["2fa", "two factor", "authentication", "security", "mfa"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_017",
+    "category": "Security & Compliance",
+    "question": "What data encryption do you use?",
+    "answer": "All data is encrypted in transit using TLS 1.3 and at rest using AES-256 encryption. Database backups are encrypted with separate keys stored in a secure key management system. API communications use OAuth 2.0 and JWT tokens with 15-minute expiration. We're SOC 2 Type II certified and GDPR compliant. Enterprise customers can request additional encryption options including customer-managed encryption keys (CMEK) and field-level encryption for sensitive data.",
+    "tags": ["encryption", "security", "tls", "aes", "gdpr", "soc2"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_018",
+    "category": "Security & Compliance",
+    "question": "How do I manage team permissions?",
+    "answer": "Go to Settings > Team > Permissions to manage access levels. We offer four roles: Owner (full access), Admin (manage team and projects), Member (create and edit projects), and Viewer (read-only access). You can assign roles at the workspace level or per-project basis. Custom roles can be created with granular permissions for Enterprise plans. Permission changes take effect immediately. You can also set up approval workflows for sensitive actions.",
+    "tags": ["permissions", "roles", "access", "admin", "security"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_019",
+    "category": "Security & Compliance",
+    "question": "How do I export my data?",
+    "answer": "To export your data, go to Settings > Privacy > Data Export. Click 'Request Data Export' and choose what to include (projects, tasks, files, comments, etc.). Exports are processed within 24 hours and you'll receive an email with a download link. The export includes JSON files for structured data and original files in their native formats. Exports are available for 7 days. For large accounts, exports may take longer and we'll notify you when ready.",
+    "tags": ["export", "data", "backup", "gdpr", "privacy"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_020",
+    "category": "Troubleshooting",
+    "question": "Why can't I upload files?",
+    "answer": "If file uploads fail, check these common issues: ensure your file is under the size limit (100MB free, 500MB paid), verify your internet connection is stable, check that you have sufficient storage quota remaining, and ensure the file type is allowed (we block executable files and certain archive formats for security). Clear your browser cache and try again. If problems persist, try a different browser or contact support with the specific error message you're seeing.",
+    "tags": ["upload", "file", "error", "troubleshoot", "size limit"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_021",
+    "category": "Troubleshooting",
+    "question": "Why are my notifications not working?",
+    "answer": "First, check Settings > Notifications to ensure notifications are enabled for the events you want. Verify your email address is confirmed and check spam folders. For browser notifications, ensure you've granted permission when prompted. For mobile apps, check device notification settings. If using integrations (Slack, email), verify the integration is connected and active. Test notifications by triggering the event manually. If still not working, try disconnecting and reconnecting the notification channel.",
+    "tags": ["notifications", "alerts", "email", "troubleshoot", "settings"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_022",
+    "category": "Troubleshooting",
+    "question": "The app is running slowly, what should I do?",
+    "answer": "Slow performance can be caused by several factors. First, check your internet connection speed. Clear your browser cache and cookies, or try an incognito/private window. Close unnecessary browser tabs and extensions. If using the mobile app, ensure you have the latest version installed. For large projects with many items, try filtering or archiving old data. If the issue persists, check our status page for known issues or contact support with details about when the slowness occurs.",
+    "tags": ["slow", "performance", "lag", "troubleshoot", "speed"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_023",
+    "category": "Troubleshooting",
+    "question": "I forgot my password, how do I reset it?",
+    "answer": "Click 'Forgot Password' on the login page and enter your email address. You'll receive a password reset link via email within 2 minutes. Click the link (valid for 1 hour) and enter your new password. The new password must be at least 8 characters with one number and one special character. If you don't receive the email, check spam folders and verify you're using the correct email address. For security, reset links can only be used once. If issues persist, contact support.",
+    "tags": ["password", "reset", "forgot", "recovery", "login"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_024",
+    "category": "Data Management",
+    "question": "How do I archive old projects?",
+    "answer": "To archive a project, go to the project settings and click 'Archive Project'. Archived projects are hidden from your main project list but remain accessible via Settings > Archived Projects. All data is preserved and you can restore archived projects anytime. You can also bulk archive multiple projects. Archived projects don't count toward your project limit. To permanently delete a project, you must first archive it, then delete it from the archived projects page (this action cannot be undone).",
+    "tags": ["archive", "project", "delete", "organize", "storage"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_025",
+    "category": "Data Management",
+    "question": "How do I backup my data?",
+    "answer": "We automatically backup all data daily with 30-day retention. For manual backups, go to Settings > Privacy > Data Export to download your data. You can schedule automatic exports weekly or monthly. Enterprise plans include automated daily backups with custom retention periods. Backups include all projects, tasks, files, comments, and settings. For additional security, we recommend keeping your own copies of critical data. All backups are encrypted and stored in multiple geographic locations.",
+    "tags": ["backup", "export", "data", "recovery", "safety"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_026",
+    "category": "Data Management",
+    "question": "How do I restore deleted items?",
+    "answer": "Deleted items go to the Trash folder where they remain for 30 days. To restore, go to Trash (accessible from the sidebar), select the items you want to restore, and click 'Restore'. Restored items return to their original location with all metadata intact. After 30 days, items are permanently deleted and cannot be recovered. You can also permanently delete items from Trash before the 30-day period if needed. Enterprise plans can request extended trash retention up to 90 days.",
+    "tags": ["restore", "delete", "trash", "recovery", "undo"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_027",
+    "category": "Data Management",
+    "question": "What are the storage limits?",
+    "answer": "Free plans include 5GB of storage. Pro plans include 100GB, and Business plans include 1TB. Enterprise plans have unlimited storage. Storage is shared across all files, attachments, and project data. You can check your usage in Settings > Storage. When approaching limits, you'll receive email notifications at 80% and 95% capacity. You can upgrade your plan or purchase additional storage blocks (100GB increments). Large files count toward your quota, so consider compressing files when possible.",
+    "tags": ["storage", "limit", "quota", "space", "capacity"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_028",
+    "category": "Mobile & Desktop Apps",
+    "question": "How do I download the mobile app?",
+    "answer": "Our mobile apps are available on iOS App Store and Google Play Store. Search for our app name or visit our website and click 'Download' to be redirected. The iOS app requires iOS 14 or later, and the Android app requires Android 8.0 or later. After installation, log in with your existing account credentials. The mobile app syncs automatically with your web account. Enable push notifications during setup to stay updated on the go.",
+    "tags": ["mobile", "app", "ios", "android", "download", "install"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_029",
+    "category": "Mobile & Desktop Apps",
+    "question": "Is there a desktop app available?",
+    "answer": "Yes, we offer desktop apps for Windows, macOS, and Linux. Download from our website's Downloads page or from the Microsoft Store (Windows) and Mac App Store (macOS). The desktop app provides offline access to your projects, faster performance, and native OS integrations like system notifications and keyboard shortcuts. All changes sync automatically when you're back online. The desktop app includes all features available in the web version plus some desktop-specific enhancements.",
+    "tags": ["desktop", "app", "windows", "macos", "linux", "offline"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_030",
+    "category": "Mobile & Desktop Apps",
+    "question": "How do I enable offline mode?",
+    "answer": "Offline mode is automatically available in our mobile and desktop apps. When you open the app, it syncs your recent projects and data for offline access. You can manually sync by pulling down to refresh (mobile) or clicking the sync button (desktop). While offline, you can view and edit projects, create tasks, and add comments. All changes are queued and automatically synced when you reconnect. The desktop app caches more data for extended offline use. Check sync status in the app's settings menu.",
+    "tags": ["offline", "sync", "mobile", "desktop", "cached"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_031",
+    "category": "Features & Functionality",
+    "question": "How do I create custom fields?",
+    "answer": "Go to any project and click Settings > Custom Fields > Add Field. Choose a field type (text, number, date, dropdown, checkbox, etc.), give it a name, and configure options like default values, required status, and visibility. Custom fields can be added to tasks, projects, or both. You can reorder fields by dragging, and they'll appear in all relevant views. Custom fields are searchable and can be used in filters and automations. Pro plans support unlimited custom fields per project.",
+    "tags": ["custom fields", "fields", "metadata", "properties", "configure"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_032",
+    "category": "Features & Functionality",
+    "question": "How do I use templates?",
+    "answer": "Templates help you quickly create projects with pre-configured settings, tasks, and workflows. Browse templates from the 'New Project' dialog or Templates gallery. You can use built-in templates or create your own by saving any project as a template. To create a template, open a project, go to Settings > Save as Template, give it a name and description. Templates preserve project structure, custom fields, automations, and task lists. You can share templates with your team or keep them private.",
+    "tags": ["template", "project", "create", "preset", "gallery"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_033",
+    "category": "Account & Billing",
+    "question": "Do you offer refunds?",
+    "answer": "We offer a 30-day money-back guarantee for all new subscriptions. If you're not satisfied within the first 30 days, contact support for a full refund. After 30 days, refunds are handled on a case-by-case basis for extenuating circumstances. Partial refunds may be available for annual plans if you cancel mid-cycle. Refunds are processed to the original payment method within 5-10 business days. Enterprise customers should refer to their contract terms for refund policies.",
+    "tags": ["refund", "money back", "guarantee", "cancel", "billing"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_034",
+    "category": "Security & Compliance",
+    "question": "How do I report a security vulnerability?",
+    "answer": "We take security seriously and have a responsible disclosure policy. If you discover a security vulnerability, email security@ourcompany.com with details including steps to reproduce, potential impact, and your contact information. Please do not publicly disclose vulnerabilities until we've had time to address them. We typically respond within 24 hours and aim to resolve critical issues within 7 days. We offer a bug bounty program with rewards for valid security reports. Thank you for helping keep our platform secure.",
+    "tags": ["security", "vulnerability", "bug", "report", "bounty"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  },
+  {
+    "id": "doc_035",
+    "category": "Troubleshooting",
+    "question": "Why can't I see my team member's changes?",
+    "answer": "If you're not seeing updates from team members, try these steps: refresh the page or app, check that you have permission to view the project, verify the team member has actually saved their changes, ensure you're both on the same project version (check for sync conflicts), and clear your browser cache. Real-time updates require a stable internet connection. If using the mobile app, ensure it's updated to the latest version. Contact support if the issue persists with specific details about what changes aren't appearing.",
+    "tags": ["sync", "collaboration", "updates", "real-time", "troubleshoot"],
+    "metadata": {
+      "last_updated": "2024-11-20",
+      "author": "support_team"
+    }
+  }
+]
+

@@ -1,0 +1,161 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+*.env
+
+# IDE - VSCode
+.vscode/
+*.code-workspace
+
+# IDE - PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IDE - Jupyter Notebook
+.ipynb_checkpoints
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+support_copilot.db
+*.db-journal
+
+# FAISS Vector Store & Embeddings
+*.bin
+*.index
+*.faiss
+embeddings.npy
+data/faiss_index.bin
+data/embeddings.npy
+data/*.bin
+data/*.npy
+data/*.index
+
+# Model Files (if downloaded locally)
+models/
+*.pkl
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+*.cover
+.cache
+nosetests.xml
+coverage.xml
+*.coveragerc
+
+# Node.js (if frontend exists)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Frontend Build
+frontend/build/
+frontend/dist/
+frontend/.next/
+frontend/out/
+
+# Docker
+.dockerignore
+
+# Temporary Files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.cache/
+
+# Backup Files
+*.bak
+*.backup
+*.old
+
+# Test Output
+test_output/
+test_results/
+*.test
+
+# Documentation (keep setup.md, ignore generated docs)
+docs/_build/
+site/
+
+# Local Configuration
+config.local.py
+settings.local.py
+
+# Hugging Face Cache (if using)
+.cache/
+huggingface/
+
+# PyTorch
+*.pth.tar
+
+# MLflow
+mlruns/
+
+# Weights & Biases
+wandb/
+
