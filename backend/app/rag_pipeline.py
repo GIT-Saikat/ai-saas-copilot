@@ -52,7 +52,6 @@ except ImportError as e:
     print(f"Warning: {e}. Some features may not work until dependencies are installed.")
 
 from app.config import settings
-from app.cache import get_cached_embedding, cache_embedding
 
 
 class HybridRetriever(BaseRetriever):
